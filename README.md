@@ -7,12 +7,8 @@
 
 **AltSchool Portfolio**
 
+_A web page displaying my basic information and nav link to AltSchool registration form I implemented._
 ***
-
-A web page displaying my basic information and nav link to AltSchool registration form I implemented.
-
 **Registration form**
 
-***
-
-AltSchool registration form using HTML.**
+_AltSchool registration form using HTML._
